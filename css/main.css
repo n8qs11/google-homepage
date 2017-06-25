@@ -1,0 +1,10 @@
+li{
+  display: inline;
+  list-style: none;
+}
+
+#logo{
+  position: relative;
+  display: block;
+  margin:auto auto;
+}
